@@ -7,5 +7,6 @@ venv/
 # Ignore Node.js dependencies
 node_modules/
 
-# Ignore environment files
+# Ignore environment files
 .env
+
